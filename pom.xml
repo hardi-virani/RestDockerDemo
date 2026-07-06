@@ -43,6 +43,9 @@
 	</dependencies>
 
 	<build>
+
+		<finalName>rest-docker-demo</finalName>
+
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
